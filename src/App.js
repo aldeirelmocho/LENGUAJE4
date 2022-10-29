@@ -1,6 +1,5 @@
 import "./App.css";
 import Header from "./Header";
-import Superior from "./Superior";
 import Centro from "./Centro";
 import Inferior from "./Inferior";
 import Inicio from "./paginas/Inicio";
@@ -26,7 +25,7 @@ function App() {
       
       <h2 className="h2">FUNDACION DE DONACIONES LA VIDA</h2>
       <div className="imagenprese">
-        <img src="https://funproyesi.com/web/images/donaciones/img-titulo-donaciones.png"></img>
+        <img alt="ff" src="https://funproyesi.com/web/images/donaciones/img-titulo-donaciones.png"></img>
       </div>
 
       <Centro />

@@ -16,15 +16,15 @@ const Fin=()=>{
         <div className="gusto">
             <h1 className="texgus ">¿QUE QUIERES DONAR?</h1>
             <a onClick={alerta}>
-             <img src={imagen} /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+             <img alt="k" src={imagen} /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
             </a>
             
             <a onClick={alerta}>
-            <img src={imagen3} /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+            <img alt="rr" src={imagen3} /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
             </a>
             
             <a onClick={alerta}>
-            <img src={imagen4} /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+            <img alt="j" src={imagen4} /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
             </a>
             
              
